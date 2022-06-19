@@ -20,10 +20,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".SecondActivity">
+            android:name=".ToDoList.SecondActivity">
         </activity>
         <activity
-            android:name=".New_Activity">
+            android:name=".DiceRoll.New_Activity">
+        </activity>
+        <activity
+            android:name=".AboutMe">
+        </activity>
+        <activity
+            android:name=".pic_game1">
         </activity>
     </application>
 

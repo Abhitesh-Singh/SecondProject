@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">SecondProject</string>
     <string name="roll_dice">Roll Dice</string>
+    <string name="bio">"Hi!!…My name is Abhitesh Singh, the developer and manager of this app.
+        \nThe thing I love is coding and having fun with my friends or just being an introvert and enjoying my solitude with mangas, animes, or games.
+        \nI started by doing some research on learning how to code. I found things like Codecademy and freeCodeCamp, free resources to get my feet wet. There was a lot to learn, and it was going to be a long journey that required a lot of discipline. But, I thought, the more work I put into it now, the more it will pay off later, and then I discovered an article talking about this challenge called #100DaysOfCode.
+        \n\nThere are two main requirements in order to complete the challenge:
+        \n1) Code a minimum of an hour every day for 100 consecutive days
+        \n2) Tweet your progress every day with the #100DaysOfCode hashtag
+        \nSo this is a system to give you structure, direction, and public accountability to keep you on track. And it seemed like a great way to motivate myself and keep up that progress.
+        Thus I began tweeting from my account twitter.com/PolarisTLX every day as well as on a Facebook group.
+        \n\nThe idea was to code every day, turning it into a habit. You couldn’t allow yourself any excuses that you’d normally make when putting off something. This “forces” significant strides forward over time that you would otherwise take much longer to achieve, or not achieve at all.
+        \nThere are additional benefits as well. Since coding involves concepts that continuously build on each other, if you go several days without coding, a fair amount of knowledge is lost.
+        \nApart from that, the founder of #100DaysOfCode welcomes you to make it your own. So to really accelerate my learning, and to make major progress towards achieving my goal of landing that developer job, I actually dedicated myself to pursuing the challenge full time, instead of just one hour per day. And after that I reached that magical 100 Day mark. "</string>
 </resources>
